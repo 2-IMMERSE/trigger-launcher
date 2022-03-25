@@ -30,7 +30,7 @@
     "@typescript-eslint/parser": "^4.23.0",
     "classnames": "^2.2.5",
     "css-loader": "^5.2.4",
-    "electron": "^9.4.0",
+    "electron": "^13.6.6",
     "electron-builder": "^22.10.5",
     "eslint": "^7.26.0",
     "eslint-plugin-react": "^7.23.2",
